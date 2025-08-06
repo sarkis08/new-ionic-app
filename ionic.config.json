@@ -1,0 +1,8 @@
+{
+  "name": "new-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fd5c479c"
+}
