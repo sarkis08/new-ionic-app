@@ -16,7 +16,10 @@ const Tab2: React.FC = () => {
             <IonTitle size="large">Tab 2</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 2 page" />
+        {/* <ExploreContainer name="Tab 2 page" /> */}
+        <p>
+          Tab 2
+        </p>
       </IonContent>
     </IonPage>
   );
